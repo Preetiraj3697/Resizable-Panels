@@ -42,7 +42,7 @@ This project demonstrates how to create a layout with resizable panels using Rea
 <img src="./src/images/laptop.png" alt="laptop image">
 
 ### Tablet Screen
-<img src="./src/images/tablet.png" alt="laptop image">
+<img src="./src/images/Tablet.png" alt="laptop image">
 
 ### Mobile Screen
 <img src="./src/images/mobile.png" alt="laptop image">
