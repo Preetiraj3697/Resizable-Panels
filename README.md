@@ -36,6 +36,17 @@ This project demonstrates how to create a layout with resizable panels using Rea
 - You can resize the panels by clicking and dragging the edges or corners of the panels.
 - The neighboring panels will adjust their size accordingly to accommodate the resizing.
 
+## Screenshot
+
+### Laptop Screen
+<img src="./src/images/laptop.png" alt="laptop image">
+
+### Tablet Screen
+<img src="./src/images/tablet.png" alt="laptop image">
+
+### Mobile Screen
+<img src="./src/images/mobile.png" alt="laptop image">
+
 ## Dependencies
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.

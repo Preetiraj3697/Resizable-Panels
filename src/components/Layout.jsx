@@ -5,9 +5,6 @@ import {
   PanelGroup,
   PanelResizeHandle,
 } from "react-resizable-panels";
-import Image1 from '../image/Image1.jpeg';
-import Image2 from '../image/Image2.jpg';
-import Image3 from '../image/Image3.jpg'
 import ChildContainer from './ChildContainer';
 const Layout = () => {
 
